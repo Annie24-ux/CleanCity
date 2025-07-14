@@ -124,4 +124,8 @@ The application has been installed and runs successfully:
 
 *This section will be updated as additional test cases, scripts, and defects are added during Week 2.*
  -->
-
+ ##  Documentation of any challenges or changes
+- **Test Data Creation**: Needed to create multiple user accounts for admin and regular roles.
+- **Tooling Issues**: Minor issues with initial Jest setup, resolved by updating dependencies.
+- **Coverage Gaps**: Some edge cases identified for further testing in Week 3.
+- **Documentation Adjustments**: Test case format updated for clarity and traceability.
